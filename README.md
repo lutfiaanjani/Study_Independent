@@ -1,2 +1,2 @@
 # Study_Independent
-python
+Foundation of AI and Life Skills for Gen-Z
